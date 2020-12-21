@@ -1,4 +1,10 @@
-# JavaScript Learning
+# JavaScript Tutorial for React Development
 
-JavaScript is text-based programming language is used for both client and server side purpose in modern web and native application development.
-In this repository we will cover the JavaScript for beginners to complete hand-on project.
+### What is JavaScript?
+
+JavaScript is one of the most popular programming languages is used for the Server and Client-side for web development. and some of the following real-time applications where javaScript
+
+- Web/Mobile Application Development
+- Real-Time Chat Application Development
+- Command-Line Tools
+- Game
