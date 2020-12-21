@@ -8,3 +8,35 @@ JavaScript is one of the most popular programming languages is used for the Serv
 - Real-Time Chat Application Development
 - Command-Line Tools
 - Game
+
+### Print Hello JavaScript
+
+Creating and Running our First Hello Javascript program. in order to print Hello Javascript !!!, Message on your browser screen we can use the following methods. some of the most common
+are:
+
+- console log
+
+```
+console.log("Hello Javascript !!!");
+```
+
+- Document Write
+
+```
+document.write("Hello Javascript");
+```
+
+- Alert
+
+```
+  alert("Hello Javascript !!!");
+```
+
+the use of the above method to print Hello JavaScript.
+we should have to put your code into the inside the script tag
+
+```
+<script>
+    console.log("Hello Javascript !!!");
+</script>
+```
