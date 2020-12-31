@@ -46,7 +46,7 @@ we should have to put your code into the inside the script tag
 ### JavaScript in Node
 
 Run the JavaScript program with node js
-just open cmd/terminal and type node with the file aname.
+just open cmd/terminal and type node with the file name
 
 ```
 node HelloJavaScript.js
@@ -60,3 +60,12 @@ Four pillars of OOP:
 2. Abstraction
 3. Inheritance
 4. Polymorphism
+
+### Objects in Javascript
+
+- Creating Objects
+- Factories and Constructors
+- Primitive and reference types
+- Working with Properties
+- Private Properties
+- Getter/ Setter
