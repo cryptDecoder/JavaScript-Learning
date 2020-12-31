@@ -1,5 +1,7 @@
 # JavaScript Tutorial for React Development
 
+## Basics
+
 ### What is JavaScript?
 
 JavaScript is one of the most popular programming languages is used for the Server and Client-side for web development. and some of the following real-time applications where javaScript
@@ -40,3 +42,21 @@ we should have to put your code into the inside the script tag
     console.log("Hello Javascript !!!");
 </script>
 ```
+
+### JavaScript in Node
+
+Run the JavaScript program with node js
+just open cmd/terminal and type node with the file aname.
+
+```
+node HelloJavaScript.js
+```
+
+## Object Oriented Programming in Javascript
+
+Four pillars of OOP:
+
+1. Encapsulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
