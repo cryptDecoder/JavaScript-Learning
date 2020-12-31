@@ -48,5 +48,13 @@ function Circle(radius) {
   };
 }
 
-const another = new Circle(1);
+const another = new Circle();
 another.draw();
+
+//Enumerating property
+for (let key in another) {
+  console.log("====================================");
+  console.log("Keys are:" + key);
+    console.log("====================================");
+    
+}
